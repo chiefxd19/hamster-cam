@@ -5,7 +5,10 @@ The cursed MS-Paint hamster that mirrors your face & hands. Exactly like the Tik
 Left = your webcam with MediaPipe hand landmarks  
 Right = hamster sprite that reacts
 
-![demo](https://github.com/user-attachments/assets/demo-placeholder)
+## How to run
+```bash
+pip install -r requirements.txt
+python main.py
 
 ### Traced Sprites
 All 9 sprites were traced directly from the original video into clean transparent PNGs:
